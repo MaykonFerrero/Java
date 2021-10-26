@@ -1,0 +1,12 @@
+
+
+
+1. méthod authentication: provavelmente sim, alf.
+
+2. multithread: tem.
+
+3. java no linux: não tem nada a ver.
+
+
+
+
